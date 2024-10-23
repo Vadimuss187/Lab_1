@@ -14,7 +14,7 @@
 
   <p align="center">
     <img src="https://github.com/Vadimuss187/Lab_1/blob/master/image%201.jpg" width="250"> 
-    <img src="https://github.com/Vadimuss187/Lab1/blob/main/image%202.jpg" width="250">
+    <img src="https://github.com/Vadimuss187/Lab_1/blob/master/image%202.jpg" width="250">
 </p> 
 
 ## <a id="Как-собрать-проект">Как собрать проект?</a>
